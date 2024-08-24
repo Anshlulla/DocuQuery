@@ -23,3 +23,8 @@ Purpose: These components are used to preprocess and optimize the input text dat
 1. **Input the PDF:** Load your PDF document into the system.
 2. **Ask a Question:** Enter your query in the provided textbox.
 3. **Get the Answer:** The system retrieves the most relevant information and provides an accurate answer.
+
+## Project Workflow: Overview
+![image](https://github.com/user-attachments/assets/81c34976-855f-4923-b529-937583f76381)
+
+
